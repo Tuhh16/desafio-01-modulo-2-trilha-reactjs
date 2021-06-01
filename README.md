@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     <img title="Icone dt money" src="./src/assets/logo.svg" width="308" height="62" alt="RocketShoes">
+     <img title="Icone dt money" src="./src/assets/images/logo.svg" width="308" height="62" alt="RocketShoes">
 </h1>
 
 <p align="center">  
@@ -68,10 +68,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Tuhh16/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras.git
+$ git clone https://github.com/Tuhh16/desafio-01-modulo-2-trilha-reactjs.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
+$ cd desafio-01-modulo-2-trilha-reactjs
 
 # Instale as dependências
 $ yarn install
@@ -84,7 +84,7 @@ $ yarn start
 # Para iniciar o backend basta iniciar o json server seguindo os seguintes passos
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
+$ cd desafio-01-modulo-2-trilha-reactjs
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn server
@@ -102,7 +102,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ReactJs](https://pt-br.reactjs.org/)**
 -   **[TypeScript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/Tuhh16/desafio-01-modulo-2-trilha-reactjs/blob/master/package.json)
 
 ---
 
