@@ -32,7 +32,7 @@ Tabela de conteúdos
 
 <p>O projeto é uma aplicação onde é listado vários produtos e podemos adicionar eles no carrinho de compras além de remover e alterar a quantidade de produto selecionado no carrinho.</p>
 <p>Além dessas funcionalidades foi necessario fazer uma validação de estoque limitando a quantidade de produto que poderia ser adicionda no carrinho.</p>
-<p>E por último depois de cada ação no carrinho de compras os dados são preservados com localStorage</p>
+<p>E por último depois de cada ação no carrinho de compras os dados são preservados com localStorage.</p>
 
 ## 🎨 Layout
 
