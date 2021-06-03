@@ -50,7 +50,7 @@ Tabela de conteúdos
   <img title="Preview da página home com items adicionado no carrinho" src="./src/assets/screenshot/preview-home-page-with-items-add-to-cart.jpg" width="400px" alt="Preview da página home com items adicionado no carrinho" />
   <img title="Preview da página home com items adicionado no carrinho" src="./src/assets/screenshot/preview-home-page-with-items-add-to-cart.jpg" width="400px" alt="Preview da página home com items adicionado no carrinho" />
   <img title="Preview da página de carrinho de compras sem produtos no carrinho" src="./src/assets/screenshot/preview-cart-empty.jpg" width="400px" alt="Preview da página de carrinho de compras sem produtos no carrinho" />
-  <img title="Preview da página de carrinho de compras com produtos no carrinho" src="./src/assets/screenshot/preview-cart-empty.jpg" width="400px" alt="Preview da página de carrinho de compras com produtos no carrinho" />
+  <img title="Preview da página de carrinho de compras com produtos no carrinho" src="./src/assets/screenshot/preview-cart-with-items.jpg" width="400px" alt="Preview da página de carrinho de compras com produtos no carrinho" />
 </p>
 
 ## 🚀 Como executar o projeto
