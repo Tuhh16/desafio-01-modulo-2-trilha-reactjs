@@ -102,12 +102,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ReactJs](https://pt-br.reactjs.org/)**
 -   **[TypeScript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/desafio-01-modulo-2-trilha-reactjs/blob/master/package.json)
-
 ---
 
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Arthur Teodoro Alves de Lima 👋🏽 [Entre em contato!](https://www.linkedin.com/in/arthur-lima-reactjs/)
+Feito por Arthur Teodoro Alves de Lima 👋🏽 [Entre em contato!](https://www.linkedin.com/in/arthurtlima/)
